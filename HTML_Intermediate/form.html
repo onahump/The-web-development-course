@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form Demo</title>
+</head>
+<body>
+
+	<h1>Login</h1>
+<!-- action - where the form send data to -->
+<!-- method - whre HTTP method (get/post)-->
+
+<!-- <form action="http://www.wikipedia.org" method="GET/POST"> -->
+<!-- <input type="radio"> -->
+<!-- <button>Submit</button> -->
+<!--
+	<form> 
+		<label>Username:
+			<input type="text" placeholder="username">
+		</label>
+		<input type="color">
+		
+		<label>Password:
+			<input type="password" placeholder="password">
+		</label>
+		
+		<input type="submit">
+	</form>
+
+*************************************************************************
+	El label for="username" pertenece a el input de id="username"
+
+	Required - necesita que el campo no este vacio
+	
+
+-->
+	<form> 
+		<label for="username" >Username:</label>
+		<input id="username" type="text" placeholder="username" required>
+
+		<label for="email" >Email:</label>
+		<input id="email" type="email" placeholder="email" required>
+		
+		<label for="password" >Password:</label>
+		<input id="password" type="password" placeholder="password" required>
+		
+		<input type="submit">
+	</form>
+</body>
+</html>
