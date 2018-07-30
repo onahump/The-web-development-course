@@ -12,5 +12,7 @@ li {
 }
 
 body {
-	background: rgb(180,255,100);
+	background: url(https://images4.alphacoders.com/106/106826.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
