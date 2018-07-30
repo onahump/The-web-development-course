@@ -1,0 +1,11 @@
+li {
+	border: 4px solid yellow;
+}
+
+#special {
+	background: orange;
+}
+
+.dosomething {
+	text-decoration: line-through;
+}
