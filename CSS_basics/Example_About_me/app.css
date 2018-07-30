@@ -5,9 +5,7 @@ h1 {
 h4 {
 	color: rgba(11, 99, 159, 1);
 	background: rgb(255,100,80);
-	border-width: 5px;
-	border-style: solid;
-	border-color: white;
+	border: 5px solid white;
 }
 
 li {
