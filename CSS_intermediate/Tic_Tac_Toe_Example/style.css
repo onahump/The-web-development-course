@@ -1,1 +1,48 @@
-style.css
+h1	{
+	font-size: 50px;
+	text-align: center;
+}
+
+table {
+	margin: 2% 0% 2% 37%;
+}
+
+td {
+	padding: 50px
+}
+
+td.a {
+	border-right: 2px solid black;
+	border-bottom:  2px solid black;
+}
+
+td.b {
+	border-right: 2px solid black;
+	border-bottom:  2px solid black;
+}
+
+td.c {
+	border-bottom:  2px solid black;
+}
+
+td.d {
+	border-right:  2px solid black;
+}
+
+td.e {
+	border-right:  2px solid black;
+}
+
+td.g {
+	border-right:  2px solid black;
+	border-top: 2px solid black;
+}
+
+td.h {
+	border-right:  2px solid black;
+	border-top: 2px solid black;
+}
+
+td.i {
+	border-top: 2px solid black;
+}
