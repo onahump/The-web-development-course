@@ -1,1 +1,59 @@
-style.css
+/* font-family */
+
+p	{
+	font-family: Arial;
+}
+
+
+h1 {
+	font-family: Georgia;
+}
+
+/* font-size */
+
+body {
+	font-size: 15px;     /* this is the font-size to the body*/
+}
+
+h1 {
+	font-size: 4.0em;    /* h1 font-size will be 4 times bigger than body font-size*/
+}
+
+p  {
+	font-size: 1.5em ;   /* p font-size will be 1.5 times bigger than body font-size*/
+}
+
+span{
+	font-size: 1.8em;    /* span font-size will be 1.8 times bigger than p (paragraf) font-size*/
+}
+/* font-weight */
+
+p {
+	font-weight: bold;
+}
+
+/* line-height */
+
+p {
+	line-height: 1.5;
+}
+
+/* text-align */
+
+h1	{
+	text-align: center;
+}
+
+p {
+	text-align: justify;
+}
+
+/* text decoration */
+
+p {
+	text-decoration: underline;
+}
+
+h1 {
+	text-decoration: line-through;
+}
