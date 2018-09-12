@@ -4,11 +4,13 @@ h1	{
 }
 
 table {
-	margin: 2% 0% 2% 37%;
+	margin: auto;
 }
 
 td {
-	padding: 50px
+	width: 100px;
+	height: 100px;
+	text-align: center;
 }
 
 td.a {
