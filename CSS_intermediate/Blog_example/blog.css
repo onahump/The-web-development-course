@@ -1,0 +1,29 @@
+div {
+	margin: 5% 20% 5% 20%;
+	border: 15px solid #D9D9D9;
+	padding: 1.5%;
+	text-align: justify;
+}
+
+.date {
+	font-size: 18px;
+	color: #66B9BF;
+	text-transform: uppercase;
+	font-family: 'Francois One', sans-serif ;
+
+}
+
+p {
+	font-family: Dosis;
+}
+
+.main_paragraph{
+	border-left: 3px solid #D9D9D9;
+	padding-left: 1%
+}
+
+.final_paragraph {
+	padding-bottom: 2%;
+	border-bottom: 1px solid #D9D9D9;
+}
+
