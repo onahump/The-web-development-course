@@ -37,18 +37,26 @@ while(count <= 40){
 var count = 300
 
 while(count <= 333){
-    if (count % 2 == 1){
+    if (count % 2 === 1){
         console.log("Count is: " + count);
     }
     count ++
 }
+
+while(count <= 333){
+    if (count % 2 !== 0){
+        console.log("Count is: " + count);
+    }
+    count ++
+}
+*/
 */
 
 /*
 var count = 5
 
 while(count <= 50){
-    if (count % 5 == 0 && count % 3 == 0){
+    if (count % 5 === 0 && count % 3 === 0){
         console.log("Count is: " + count);
     }
     count ++
